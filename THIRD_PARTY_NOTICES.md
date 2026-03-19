@@ -8,6 +8,3 @@
   - `Editor/SQLite/SQLiteAsync.cs`
   - `LICENSE` (copied from upstream `LICENSE.txt`)
 - License: MIT
-- Upstream commit/version:
-  - Source archive provided in `TempPackage_ForCodex/sqlite-net-master/sqlite-net-master`
-  - Git metadata was not included in the provided archive
