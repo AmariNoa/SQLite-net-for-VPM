@@ -101,3 +101,7 @@ InitTestScene*.unity*
 # LICENSE.meta
 LICENSE.meta
 THIRD_PARTY_NOTICES.md.meta
+
+# Othr files
+/Spec/*
+Spec.meta

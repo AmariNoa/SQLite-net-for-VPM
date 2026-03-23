@@ -1,0 +1,16 @@
+{
+    "name": "com.amari-noa.sqlite-net-vpm",
+    "rootNamespace": "com.amari_noa.sqlite_net_vpm",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
